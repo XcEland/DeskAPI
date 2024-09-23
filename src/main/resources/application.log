@@ -1,0 +1,8 @@
+Sep 23, 2024 10:29:21 AM com.zoho.desk.logger.ZDLogger logError
+SEVERE: ZohoDesk - Requested URL: https://desk.zoho.com/api/v1/tickets
+Sep 23, 2024 10:29:21 AM com.zoho.desk.logger.ZDLogger logError
+SEVERE: ZohoDesk - java.lang.NullPointerException
+Sep 23, 2024 11:52:28 AM com.zoho.desk.logger.ZDLogger logError
+SEVERE: ZohoDesk - Requested URL: https://desk.zoho.com/api/v1/tickets
+Sep 23, 2024 11:52:28 AM com.zoho.desk.logger.ZDLogger logError
+SEVERE: ZohoDesk - java.lang.NullPointerException
